@@ -1,0 +1,13 @@
+body{
+	background-color: #300;
+	margin: 0px;
+}
+.fullCenter{
+	color: #fff;
+	font-size: 3em;
+	font-weight: bold;
+	height: 100vh;
+	overflow: hidden;
+	text-align: center;
+	width: 100vw;
+}
